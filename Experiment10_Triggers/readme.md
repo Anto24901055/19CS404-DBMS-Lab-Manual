@@ -1,5 +1,8 @@
 # Experiment 10: PL/SQL – Triggers
 
+## Name : Anto Williams S
+## Register Number : 212224240012
+
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
@@ -75,3 +78,4 @@ END;
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+
